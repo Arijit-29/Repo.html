@@ -1,0 +1,12 @@
+*{color:green;}
+h1{ color:red;
+  size:"5px";}
+p{ color:blue;} 
+#submit{background-color:rgba(255,255,25,0.5);}
+#myself{
+  background-image:url("Web dev images/CSSlogo.png");
+  background-size:30px 30px;
+background-repeat:no-repeat ;
+background-attachment:none;
+background-position:bottom;
+}
